@@ -27,6 +27,3 @@ Clean layout and consistent sorting for faster scanning and decision‑making.
 
 Screenshots:
 ![Overview] -- https://github.com/codewithkartik13/ZomatoDashboard/blob/main/zomato%20dashboard%20look.png
-
-Screenshots:
-![Overview] -- https://github.com/codewithkartik13/ZomatoDashboard/blob/main/zomato%20dashboard%20look.png
