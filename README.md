@@ -26,4 +26,5 @@ Slicers: Date range, City, and Ratings for quick drill‑downs.
 Clean layout and consistent sorting for faster scanning and decision‑making.
 
 Screenshots:
-![Overview] -- https://github.com/codewithkartik13/ZomatoDashboard/blob/main/zomato%20dashboard%20look.png
+![Overview] -- 
+<img width="1286" height="695" alt="zomato dashboard look" src="https://github.com/user-attachments/assets/dd666f02-a1a8-4ece-b9f4-22b2917a7ea9" />
